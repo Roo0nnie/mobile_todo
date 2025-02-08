@@ -1,8 +1,8 @@
-# project_1
+# My Personal Mobile Todo App
 
 A new Flutter project.
 
-## Getting Started
+## This is just a simple project and a personal practice for me to do a flutter app.
 
 This project is a starting point for a Flutter application.
 
